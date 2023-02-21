@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("değişiklik yapildi");
     printf("Hello world!\n");
     return 0;
 }
